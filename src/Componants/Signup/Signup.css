@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://img.freepik.com/free-photo/blue-surface-with-study-tools_23-2147864592.jpg');
+    background-size: cover;
+    background-position: center;
+    font-weight: bolder;
+    font-style: italic;
+     
+    }
+    
+    .signup-form{
+       background: transparent;
+        box-shadow: 2px 2px 2px 2px grey;
+        border-radius: 12px ;
+        
+    }
+    .input-box{
+        border-radius: 12px;
+    }
+    .signupbutton{
+        width: 190px;
+        border-radius: 12px;
+        background-color: rgb(39, 159, 238);
+        font-weight: bolder;
+        font-style: italic;
+    }
+    
+    .signup {
+      padding: 20px;
+      width: 270px;
+    
+      margin: 4% auto 0;
+      text-align: center;
+     
+    }
+    .signup input{
+      font-weight: bolder;
+      font-style: italic;
+    }
+    
+    
